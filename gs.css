@@ -18,12 +18,19 @@ h5{
     color:black;
     font-size: medium;
 }
+
 .but{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color:lightgrey;
     font-size: medium;
     background-color:darkmagenta;
+}
+.but:hover{
+    color: aqua;
+        text-shadow: 5px 10px 15px cyan;
+        background-color: rebeccapurple;
+        border-style:solid ;
 }
 .speech{
     font-family: 'Times New Roman', Times, serif;
@@ -38,12 +45,24 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.cap:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px tan;
+    background-color: darkred;
+    border-style:solid ;
+}
 .direction{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color:lightgrey;
     font-size: medium;
     background-color:darkmagenta;
+}
+.direction:hover{
+    color: aqua;
+        text-shadow: 5px 10px 15px lightgrey;
+        background-color: darkgreen;
+        border-style:solid ;
 }
 .sir{
     font-family: 'Times New Roman', Times, serif;
@@ -52,12 +71,24 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.sir:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px lightpink;
+    background-color: black;
+    border-style:solid ;
+}
 .jos{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color:lightgrey;
     font-size: medium;
     background-color:darkmagenta;
+}
+.jos:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px blanchedalmond;
+    background-color: darkblue;
+    border-style:solid ;
 }
 .all{
     font-family: 'Times New Roman', Times, serif;
@@ -66,6 +97,12 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.all:hover{
+    color: aqua;
+    text-shadow: 5px 10px 15px blanchedalmond;
+    background-color: darkblue;
+    border-style:solid ;
+}
 .dic{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
@@ -73,12 +110,24 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.dic:hover{
+    color: aqua;
+        text-shadow: 5px 10px 15px blanchedalmond;
+        background-color: darkblue;
+        border-style:solid ;
+}
 .cre{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color:lightgrey;
     font-size: medium;
     background-color:darkmagenta;
+}
+.cre:hover{
+    color: aqua;
+        text-shadow: 5px 10px 15px blanchedalmond;
+        background-color: darkblue;
+        border-style:solid ;
 }
 .song{
     color: darkgreen;
