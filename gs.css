@@ -80,4 +80,30 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.song{
+    color: darkgreen;
+}
 
+table, th, td {
+
+    border: 1px solid;
+
+
+}
+th,td{
+padding: 10px;
+text-align: center;
+
+}
+tr{
+    row-gap: 0.3px;
+}
+th {
+    background-color: lightgray;
+    color: darkorange;
+}
+tr:nth-child(odd){
+
+    background-color: lightskyblue;
+    color: black;
+}
