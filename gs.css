@@ -12,6 +12,12 @@ h5{
     font-size: medium;
     background-color:darkmagenta;
 }
+.SON:hover{
+        color: aqua;
+        text-shadow: 5px 10px 15px cyan;
+        background-color: rebeccapurple;
+        border-style:solid ;
+}
 .song{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
@@ -27,7 +33,7 @@ h5{
     background-color:darkmagenta;
 }
 .but:hover{
-    color: aqua;
+        color: aqua;
         text-shadow: 5px 10px 15px cyan;
         background-color: rebeccapurple;
         border-style:solid ;
